@@ -1,12 +1,8 @@
 # IDemo-SwiftUI
 
 IDemo-SwiftUI .
+simple app in swiftui with MVVM Used
 
-Used 
-EnvironmentObject
-@Published
-@State
-TabView
 
 
 
@@ -15,7 +11,6 @@ Enjoy!
 #  demo video....
 
 
-https://gifs.com/gif/f-r8wokW
 
 
-![Alt Text](https://j.gifs.com/r8wokW.gif)
+![Alt Text](https://j.gifs.com/L7387W.gif)
